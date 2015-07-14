@@ -2,7 +2,7 @@
 
 Powered by GO 
 
-
+~~~~
 ********************** Below options need rooted phone *********************
 
 1. Get cloud setting
@@ -16,4 +16,4 @@ Powered by GO
 
 4. Run monkey test
 0. Exit this tool
-
+~~~~
