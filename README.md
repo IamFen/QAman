@@ -1,6 +1,6 @@
-# QAman
+# QAman v1.1
 
-====== Powered by GO ====== Version 1.1 ====== Fenn ====== 2015/07/14 ======
+Powered by GO 
 
 
 ********************** Below options need rooted phone *********************
