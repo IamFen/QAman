@@ -2,7 +2,7 @@
 
 Powered by GO 
 
-
+~~~~~
 ********************** Below options need rooted phone *********************
 
 1. Get cloud setting
@@ -15,5 +15,7 @@ Powered by GO
 ***************** Below options only need debug mode opened ****************
 
 4. Run monkey test
+5. Push callblock number mapping file
 0. Exit this tool
 
+~~~~
